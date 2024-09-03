@@ -17,5 +17,11 @@ main{
 }
 .profile{
     display:flex;
-    
+    align-item:360px;
+}
+footer{
+    background:#333;
+    color:#fff;
+    padding:30px;
+    text-align:center;
 }
